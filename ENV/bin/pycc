@@ -1,0 +1,3 @@
+#!/home/saurav/Documents/GitHub/Python/second/ENV/bin/python3
+from numba.pycc import main
+main()
